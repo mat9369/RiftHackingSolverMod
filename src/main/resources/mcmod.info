@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rifthackingsolvermod",
+  "name": "Rift Hacking Solver",
+  "description": "Highlight when you can hack in the Unhinged Kloon quest",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mat9369"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

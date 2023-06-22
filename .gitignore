@@ -1,0 +1,14 @@
+# https://github.com/Choonster-Minecraft-Mods/TestMod3/blob/1.8.9/.gitignore
+/*
+/*/
+!/src/
+!.gitignore
+!gradlew*
+!/gradle/
+!/LICENSE.txt
+!/README.md
+!build.gradle
+!.travis.yml
+!/textures/
+!/gradle.properties
+!.gitattributes
